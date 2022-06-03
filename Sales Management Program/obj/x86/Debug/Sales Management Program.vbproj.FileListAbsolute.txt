@@ -1,0 +1,64 @@
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.vbprojAssemblyReference.cache
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.vbproj.ResolveComReference.cache
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_Exp.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_Mohsil.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_Mand.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_Product.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_Thsil.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.BackUP.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Buy_Inv.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_Twrid.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Prn_Customer.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Users.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Edit_Connection.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Add_User.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Mohslin.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Customer.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Mand.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Dftr_Mandobin.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Products.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Dftr_Mohslin.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Login.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_Load.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Home.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Load_Toktok.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Frm_OutGoings.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Restor.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales_Management_Program.Resources.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.vbproj.GenerateResource.cache
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.TrustInfo.xml
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.exe
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.xml
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Managment System\obj\x86\Debug\Sales Management Program.pdb
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.vbprojAssemblyReference.cache
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.vbproj.ResolveComReference.cache
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_Exp.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_Mohsil.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_Mand.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_Product.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_Thsil.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.BackUP.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Buy_Inv.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_Twrid.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Prn_Customer.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Users.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Edit_Connection.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Add_User.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Mohslin.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Customer.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Mand.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Dftr_Mandobin.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Products.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Dftr_Mohslin.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Login.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_Load.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Home.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Load_Toktok.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Frm_OutGoings.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Restor.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales_Management_Program.Resources.resources
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.vbproj.GenerateResource.cache
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.TrustInfo.xml
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.exe
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.xml
+G:\2 c# خاص\Projectes\SMP\Sales-Management-Program-Sql Database\Sales-Management-Program\Sales Management Program\obj\x86\Debug\Sales Management Program.pdb
