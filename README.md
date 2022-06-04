@@ -6,4 +6,4 @@
 # Overview Video:
 
 
-![Game]([https://github.com/Faizun-Faria/Thief-Robber-Landlord-Police/blob/main/Preview/gif_english.gif](https://github.com/SayedAbdo-99/Sales-Management-Program/blob/main/Overview-Video.gif))
+![Game](https://github.com/SayedAbdo-99/Sales-Management-Program/blob/main/Overview-Video.gif)
